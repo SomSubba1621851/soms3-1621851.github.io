@@ -11,6 +11,19 @@
 	
 	<video width="320" height="240" controls>
   <source src="IMG_1408.MOV" type="movie/video">
+  <!DOCTYPE html>
+<html>
+<body>
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+
   
  [![Pokemon youtube playlist](http://img.youtube.com/vi/5leT4ydBq58/0.jpg)](http://www.youtube.com/watch?v=5leT4ydBq58)
  
